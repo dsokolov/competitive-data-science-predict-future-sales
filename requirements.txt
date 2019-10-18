@@ -37,7 +37,7 @@ jupyter==1.0.0
 jupyter-client==5.2.4
 jupyter-console==6.0.0
 jupyter-core==4.4.0
-jupyterhub==0.9.4
+jupyterhub==0.9.6
 jupyterhub-ldapauthenticator==1.2.2
 jupyterhub-systemdspawner==0.11
 kiwisolver==1.1.0
