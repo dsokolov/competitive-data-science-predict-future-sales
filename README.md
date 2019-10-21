@@ -13,3 +13,19 @@ sample_submission.csv - a sample submission file in the correct format.
 items.csv - supplemental information about the items/products.
 item_categories.csv  - supplemental information about the items categories.
 shops.csv- supplemental information about the shops.
+
+## TODOS
+
+Формировать датасет:
+
+период наблюдения 30 дней
+
+период предсказания 30 дней
+
+для каждого товара и магазина:
+
+фичи:
+
+кол-во продаж ...
+
+лейбл - количество продаж
