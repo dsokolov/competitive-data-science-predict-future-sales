@@ -78,7 +78,7 @@ prompt-toolkit==2.0.9
 ptyprocess==0.6.0
 py==1.8.0
 pyasn1==0.4.5
-Pygments==2.3.1
+Pygments==2.7.4
 pylint==2.3.1
 pyodbc==4.0.26
 pyparsing==2.4.0
