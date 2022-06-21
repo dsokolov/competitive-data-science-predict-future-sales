@@ -58,7 +58,7 @@ nbzip==0.1.0
 networkx==2.3
 notebook==5.7.6
 numba==0.45.1
-numpy==1.16.4
+numpy==1.22.0
 openpyxl==2.6.2
 packaging==19.1
 pamela==1.0.0
